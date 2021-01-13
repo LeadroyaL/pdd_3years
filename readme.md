@@ -10,3 +10,12 @@
 目前我已经放弃恢复我的 server 了，随缘，可能访问量下去就好了
 
 另外，这里有个 markdown，内容和cc98、博客里的内容一致。
+
+## 防失效链接
+
+IPFS CID：QmeB9xjmVsVX3CuLhRQtGpWHqJi68ku61tknJzr6CWSJ2f
+
+[WaybackMachine](https://web.archive.org/web/20210112152451/https://www.leadroyal.cn/?p=1228)
+
+[Archive.today](https://archive.is/ofKqT)
+
